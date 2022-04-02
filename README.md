@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yujeeb
-- 👀 I’m interested
+- 👀 I’m a freshman at CMRCET, Hyderabad
 - 📫 How to reach me - LinkedIn : https://www.linkedin.com/in/yujeeb-kashani-a60b681b8/
 
 <!---
