@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Yujeeb Abbas Kashani.
-- 👀 I’m a sophomore at CMRCET, Hyderabad.
+- 👀 I’m a sophomore in BTech at CMRCET, Hyderabad.
 - 📫 How to reach me - LinkedIn : https://www.linkedin.com/in/yujeeb-kashani-a60b681b8/
 
 <!---
