@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Yujeeb Abbas Kashani.
-- 👀 I’m a sophomore in BTech at CMRCET, Hyderabad.
+- 👀 I’m a sophomore in BTech CSE(Data Science) at CMRCET, Hyderabad.
 - 📫 linkedIn - https://www.linkedin.com/in/yujeeb/
 
 <!---
