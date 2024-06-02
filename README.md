@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Yujeeb Abbas Kashani.
-- 👀 I am highly self-motivated and passionate to work on cutting-edge technologies such as Artificial Intelligence and Data Science for the benefit of the mankind and society.
+- 👀 I am highly self-motivated and passionate to work on cutting-edge technologies such as Artificial Intelligence and Data Science and strive to create meaningful and valuable impact for the mankind.
 - 📫 You can connect with me on LinkedIn at https://www.linkedin.com/in/yujeeb/
 
 <!---
